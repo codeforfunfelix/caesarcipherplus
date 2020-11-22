@@ -1,5 +1,4 @@
-letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.,(): /;[]{}|<>-_!@#$%^&*+=~`?"
-letters = list(letters)
+letters = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.,(): /;[]{}|<>-_!@#$%^&*+=~`?")
 
 def getFunc():
     print("What do you want to do?: (Answers: Encode, Decode)")
