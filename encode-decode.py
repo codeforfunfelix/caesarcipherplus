@@ -1,6 +1,6 @@
 #This is my first full python program, and I'm very proud! Made on 11/21/2020
 
-letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.,(): /;[]{}|<>-_!@#$%^&*+=~`"
+letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.,(): /;[]{}|<>-_!@#$%^&*+=~`?"
 letters = list(letters)
 
 def getFunc():
